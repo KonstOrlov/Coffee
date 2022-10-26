@@ -1,0 +1,37 @@
+.story {
+  min-width: 940px;
+  margin-top: 120px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.story__title {
+  width: 578px;
+  height: 80px;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 40px;
+  color: #1D1F2E;
+  text-align: center;
+  margin-bottom: 16px;
+}
+
+.story__text {
+  color: rgba(29, 31, 46, 0.7);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  width: 658px;
+  height: 112px;
+  text-align: center;
+  margin-bottom: 21px;
+}
+
+.story__link {
+  color: #A25F4B;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 28px;
+  border-bottom: 2px solid #A25F4B;
+}

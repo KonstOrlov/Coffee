@@ -1,0 +1,49 @@
+.coffee-mugs {
+  margin: 0 30px;
+  min-height: 530px;
+  display: flex;
+  justify-content: center;
+  background: url(../../../src/coffee.jpg) no-repeat center, #050827;
+  height: 530px;
+  min-width: 940px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.coffee-mugs__title {
+  margin: 5px 0;
+  color: #FFFFFF;
+  font-weight: 400;
+  font-size: 47px;
+  line-height: 60px;
+  letter-spacing: 2px;
+}
+
+.coffee-mugs__title_above {
+  font-size: 12px;
+  line-height: 18px;
+  text-transform: uppercase;
+}
+
+.coffee-mugs__text {
+  margin: 5px 0 40px;
+  color: #FFFFFF;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 30px;
+  letter-spacing: 1px;
+}
+
+.coffee-mugs__button {
+  min-width: 230px;
+  min-height: 35px;
+  background: #FFFFFF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 8px 24px 7px 24px;
+  font-size: 12px;
+  line-height: 18px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}

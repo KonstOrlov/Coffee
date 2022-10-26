@@ -1,0 +1,50 @@
+.products {
+  min-width: 940px;
+  display: flex;
+  justify-content: center;
+}
+
+.goods {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 10px;
+}
+
+.goods__picture {
+  margin-bottom: 35px;
+}
+
+.goods__name {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
+  color: #1D1F2E;
+  margin-bottom: 5px;
+}
+
+.goods__prices {
+  display: flex;
+  align-items: center;
+}
+
+.goods__price {
+  font-size: 16px;
+  line-height: 28px;
+  text-align: center;
+  color: rgba(29, 31, 46, 0.7);
+}
+
+.goods__price_discount {
+  text-decoration-line: line-through;
+  color: rgba(29, 31, 46, 0.4);
+}
+
+.goods__discount {
+  font-size: 19px;
+  line-height: 32px;
+  text-align: center;
+  color: #A25F4B;
+  margin: 0 10px;
+}

@@ -1,0 +1,44 @@
+.lifestyle-stories {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.stories-gallery {
+  display: flex;
+  justify-content: center;
+}
+
+.storie {
+  max-width: 300px;
+  margin: 0 10px;
+}
+
+.storie__images {
+  margin-bottom: 30px;
+}
+
+.storie__title {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  color: #1D1F2E;
+  margin-bottom: 10px;
+}
+
+.storie__text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  color: rgba(29, 31, 46, 0.7);
+  margin-bottom: 16px;
+}
+
+.storie__date {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #1D1F2E;
+}

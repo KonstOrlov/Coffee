@@ -1,0 +1,9 @@
+.products-gallery {
+  min-width: 940px;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(300px, auto));
+  grid-auto-rows: 480px;
+  grid-column-gap: 17px;
+  grid-row-gap: 65px;
+  justify-content: center;
+}

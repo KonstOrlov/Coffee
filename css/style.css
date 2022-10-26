@@ -1,2 +1,14 @@
 @import url("reset.css");
+@import url("title/title.css");
+@import url("header/header.css");
+@import url("main/mains.css");
+@import url("footer/footer.css");
 
+.body {
+  font-family: "Karla", "Maple", "Work Sans", sans-serif;
+  font-style: normal;
+}
+
+a {
+  color: #000000;
+}

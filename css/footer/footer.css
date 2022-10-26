@@ -1,0 +1,88 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 60px;
+}
+
+.footer__year-foundation {
+  margin-right: 55px;
+  width: 260px;
+}
+
+.footer__text {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+  color: rgba(29, 31, 46, 0.7);
+  margin-bottom: 82px;
+}
+
+.footer__inc {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+  color: rgba(29, 31, 46, 0.3);
+}
+
+.footer__menu {
+  margin-right: 80px;
+}
+
+.footer__title {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #1D1F2E;
+  margin-bottom: 23px;
+}
+
+.footer__title_year-foundation {
+  margin-bottom: 22px;
+  font-size: 18px;
+  font-weight: bold;
+  text-transform: none;
+}
+
+.footer__link {
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 22px;
+  margin-bottom: 10px;
+}
+
+.footer__link-text {
+  color: rgba(29, 31, 46, 0.7);
+}
+
+.footer__link-text:visited {
+  color: rgba(29, 31, 46, 0.7);
+}
+
+.footer__social-network {
+  margin-right: 85px;
+}
+
+.footer__text_contact-us {
+  margin-bottom: 15px;
+}
+
+.footer__email {
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 36px;
+  color: #1D1F2E;
+  margin-bottom: 55px;
+}
+
+.footer__email-text {
+  color: #1D1F2E;
+}
+
+.footer__powered-by {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+  color: rgba(29, 31, 46, 0.3);
+}

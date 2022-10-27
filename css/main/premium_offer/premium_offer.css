@@ -3,6 +3,7 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  min-width: 970px;
 }
 
 .premium-offer__container {
@@ -72,7 +73,7 @@
 
 .premium-offer__make-coffee {
   background: url(../../../src/make_coffee.jpg) no-repeat center;
-  min-width: 1440px;
+  min-width: 970px;
   height: 340px;
   margin-top: 130px;
 }
